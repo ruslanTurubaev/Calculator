@@ -23,7 +23,7 @@ public class Calculator {
 
     private String calculate(String arithmeticExpression){
         /*
-         * At first the method prepare given math expression for calculations
+         * The method prepare given math expression for calculations, at first
          * the method removes all decimal dividers and
          * add multiply operator in front of open brackets and square root, if needed
          */
